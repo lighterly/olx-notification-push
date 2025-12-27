@@ -1,0 +1,14 @@
+{
+  "name": "olx-monitor",
+  "version": "1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "node-notifier": "^10.0.1",
+    "puppeteer": "^22.0.0",
+    "sound-play": "^1.1.0",
+    "open": "^9.0.0"
+  }
+}
